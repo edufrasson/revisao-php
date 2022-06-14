@@ -1,0 +1,6 @@
+CRUD	   			MySQL
+
+Create ->  Insert (INSERT INTO pessoa(nome) VALUES ("Adauto"))
+Read   ->  Select (SELECT nome_campo FROM nome_tabela)
+Update ->  Update (UPDATE nome_tabela SET nome_campo = "novo valor" WHERE id = valor)
+Delete ->  Delete (DELETE FROM nome_tabela WHERE id = valor)

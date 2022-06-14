@@ -1,0 +1,22 @@
+class Pessoa{
+
+  // Atributos: são características das classes 
+	
+	public nome;	
+	public idade;
+	public sexo;
+
+  // Métodos: são ações que a classe faz
+
+	public function comer(){
+
+	};
+	
+	public function dormir(){
+
+	};
+	
+	public function jogarLol(){
+		return "gay";
+	};
+}

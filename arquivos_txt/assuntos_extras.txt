@@ -1,0 +1,5 @@
+-- Assuntos Extras -- 
+
+1- Orientação a Objeto (Abstração, Encapsulamento, Herança e Poliformismo)
+
+2- Array Associativo 

@@ -1,0 +1,14 @@
+*** Array Convencional ***
+
+- Sequência
+- Acesso à partir de índice
+
+ex. Array[0] = "oi"
+
+
+*** Array Associativo ***
+
+- Chave e valor
+- Acesso pelo nome da chave
+
+ex. Array["nome"] = "João Paulo Franchini de Freitas"
